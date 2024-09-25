@@ -1,0 +1,38 @@
+.container{
+    display: grid;
+    grid-template-areas:
+            'head head head head'
+            'side nav nav nav'
+            'side article article article'
+            'side article article article'
+            'side article article article'
+            'side article article article'
+            'side article article article'
+            'side article article article'
+            'side article article article'
+            'side article article article'
+            'side article article article'
+            'foot foot foot foot';
+    gap: 10px;
+    height: 100vh;
+}
+.container div{
+    background-color: blueviolet;
+    color: #fff;
+    text-align: center;
+}
+.header{
+    grid-area: head;
+}
+.sidebar{
+    grid-area: side;
+}
+.nav{
+    grid-area: nav;
+}
+.article{
+    grid-area: article;
+}
+.footer{
+    grid-area: foot;
+}
