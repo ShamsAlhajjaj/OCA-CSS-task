@@ -1,0 +1,89 @@
+:root {
+    --width: 150px;
+    --height: 150px;
+    --border: 30px;
+  }
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto auto;
+    gap: 10px;
+}
+div div{
+    width: var(--width);
+    height: var(--height);
+    background-color: aqua;
+    /* position: static; */
+    border-radius: 16px;
+    text-align: center;
+    justify-content: center;
+
+}
+div div{
+
+}
+.div1{
+    /* position: absolute; */
+    /* top: 0; */
+    /* grid-column: 2 / 4;
+    grid-row: 1 / 3; */
+}
+.div2{
+    /* position: absolute; */
+    /* top: 0;
+    left: calc(var(--width) * (2 - 1)); */
+}
+.div3{
+    /* position: absolute; */
+    /* top: 0;
+    left: calc(var(--width) * (3 - 1)); */
+}
+.div4{
+    /* position: absolute; */
+    /* top: 0;
+    left: calc(var(--width) * (4 - 1)); */
+}
+
+.div5{
+    /* position: absolute; */
+    /* top: calc(var(--height)); */
+}
+.div6{
+    /* position: absolute; */
+    /* left: calc(var(--width) * (2 - 1));
+    top: calc(var(--height)); */
+}
+.div7{
+    /* position: absolute; */
+    /* left: calc(var(--width) * (3 - 1));
+    top: calc(var(--height)); */
+}
+.div8{
+    /* position: absolute; */
+    /* left: calc(var(--width) * (4 - 1));
+    top: calc(var(--height)); */
+}
+
+
+.div9{
+    /* position: absolute; */
+    /* top: calc(var(--height)*2); */
+}
+.div10{
+    /* position: absolute; */
+    /* left: calc(var(--width) * (2 - 1));
+    top: calc(var(--height)*2); */
+}
+.div11{
+    /* position: absolute; */
+    /* left: calc(var(--width) * (3 - 1));
+    top: calc(var(--height)*2); */
+}
+.div12{
+    /* position: absolute; */
+    /* left: calc(var(--width) * (4 - 1));
+    top: calc(var(--height)*2); */
+}
+
+
+

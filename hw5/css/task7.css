@@ -1,0 +1,15 @@
+.parent{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    font-size: 30px;
+    /* background-color: aqua; */
+    height: 100vh;
+    align-items: center;
+    border: #d9a521 4px solid;
+}
+.child{
+ padding: 16px;
+ /* color: #fff; */
+ height: calc(10vh - 32px);
+}

@@ -1,0 +1,39 @@
+.p1{
+    color: #E93747;
+    font-size: 20px;
+    font-weight: bold;
+}
+.p2{
+    color: #77E698;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.p3{
+    background-color: #52CFAA;
+    color: #6D4DE6;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline;
+}
+.p4{
+    color: pink;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: black 1px 1px;
+}
+.p4 span{
+    font-style: italic;
+}
+.p5{
+    color: #CF6112;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+    text-decoration: line-through;
+}
+.p6{
+    color: #DAD604;
+    text-decoration: underline red;
+    font-style: italic;
+}

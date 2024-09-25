@@ -1,0 +1,26 @@
+p{
+    border: 1px solid #000;
+    height: 100px;
+}
+.p1{
+    background-color: #FF7F50;
+    overflow: visible;
+}
+.p2{
+    background-color: #000;
+    color: #fff;
+    overflow: hidden;
+}
+.p3{
+    background-color: aqua;
+    overflow: scroll;
+}
+.p4{
+    background-color: purple;
+    overflow: auto;
+}
+.p5{
+    background-color: green;
+    overflow-x: auto;
+    overflow-y: auto;
+}

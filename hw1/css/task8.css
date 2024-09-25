@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+.p1{
+    background-image: url(../assets/lovely-bg.jpg);
+}
+.p2{
+    background-image: url(../assets/solid-blue-bg.png);
+}
+.p3{
+    background-image: url(../assets/lovely-bg.jpg), url(../assets/solid-blue-bg.png);
+    background-size: 50%, 50%;
+    background-repeat: no-repeat, no-repeat;
+    background-position: left, right;
+}

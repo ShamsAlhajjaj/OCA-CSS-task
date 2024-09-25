@@ -1,0 +1,17 @@
+body{
+    background-color: #000;
+}
+.parent{
+    display: grid;
+    place-items: center;
+    justify-content: center;
+    height: 8em;
+    
+}
+.child{
+    background-color: #fff;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    padding-top: 70px;
+}

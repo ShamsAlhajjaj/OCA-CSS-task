@@ -1,0 +1,16 @@
+.p1{
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: overline green;
+}
+.p2{
+    font-size: 24px;
+    text-decoration: line-through grey;
+}
+.p3{
+    font-weight: bold;
+    text-decoration: underline purple;
+}
+.p4{
+    text-decoration: overline underline blue;
+}

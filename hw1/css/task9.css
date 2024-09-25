@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+h1{
+    color: rgb(83, 128, 0);
+    font-family: "Anton", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 50px;
+}
+.p1{
+    color:rgb(0, 197, 197);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#p2{
+    background-color: aqua;
+    color: rgb(111, 171, 0);
+    font-weight: bold;
+    font-size: 24px;
+}
+.div1{
+    background-color: #D4F0F1;
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.red-p{
+    color: red;
+}
+.blue-p{
+    color: blue;
+}
+.div2{
+    background-color: #F5DBFD;
+    text-align: center;
+    font-size: 20px;
+}
+.even{
+    color: brown;
+}
+a{
+    text-decoration: none;
+}

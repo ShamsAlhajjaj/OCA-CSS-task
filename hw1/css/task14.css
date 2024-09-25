@@ -1,0 +1,7 @@
+body{
+    background-image: url(../assets/lovely-bg.jpg), url(../assets/solid-blue-bg.png);
+    background-size: contain, contain;
+    background-repeat: repeat-y, repeat-x;
+    background-position-x: left, right;
+    /* background-position-y: top, top; */
+}

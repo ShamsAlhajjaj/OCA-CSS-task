@@ -1,0 +1,30 @@
+p{
+    width: 250px;
+    height: 100px;
+}
+.p1{
+    border: 2px black;
+                /* up    right bottom  left; */
+    border-style: dashed solid dotted double;
+}
+.p2{
+    border: 2px black;
+    border-style: solid solid dashed dotted;
+}
+.p3{
+    border: 2px black;
+    border-style: dotted;
+}
+.p4{
+    border: 2px black;
+    border-style: solid;
+}
+.p5{
+    border: 2px blue;
+    border-style: solid;
+}
+.p6{
+    border: 2px blue;
+    border-style: solid solid dotted solid;
+    border-color: green blue green green;
+}

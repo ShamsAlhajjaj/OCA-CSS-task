@@ -1,0 +1,15 @@
+.p1{
+    color: green;
+    font-size: 20px; 
+}
+.p4{
+    color: pink;
+
+}
+.p6{
+    color: yellow;
+    font-size: 3rem;
+}
+.p6 span{
+    text-decoration: underline;
+}

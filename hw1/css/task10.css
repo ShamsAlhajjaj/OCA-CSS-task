@@ -1,0 +1,22 @@
+ul{
+    padding: 0px;
+}
+li{
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 14px;
+    
+}
+.odd{
+    color: #fff;
+    font-weight: bold;
+}
+.li-1, .li-3{
+    background-color: #00BFFF;
+}
+#li-5{
+    background-color: #FF69B4;
+}
+.li-7, .li-9{
+    background-color: #FFA500;
+}

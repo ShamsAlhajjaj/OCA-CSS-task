@@ -1,0 +1,19 @@
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #aaa; 
+    border-bottom: 1px solid #aaa; 
+}
+.red{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.menu-cont {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+}

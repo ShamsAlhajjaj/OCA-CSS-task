@@ -1,0 +1,34 @@
+nav,.right, .left{
+    display: flex;
+    justify-content: space-between;
+}
+.right, .left{
+    flex-grow: 0.1;
+}
+.cont{
+    display: flex;
+    justify-content: center;
+    height: 70vh;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 36px;
+}
+.center img{
+    width: 200px;
+}
+.center input{
+    border: 1px solid;
+    border-radius: 20px;
+    height: 36px;
+    width: 360px;
+}
+.btn{
+    text-decoration: none;
+    padding: 10px;
+    background-color: #eee;
+    border-radius: 10px;
+}

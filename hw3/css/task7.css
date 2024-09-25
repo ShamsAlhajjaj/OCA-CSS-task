@@ -1,0 +1,6 @@
+p{
+    border: 10px solid;
+    padding: 15px;
+    text-align: center;
+    border-image: url(../assets/wood-frame.png) 30 round;
+}

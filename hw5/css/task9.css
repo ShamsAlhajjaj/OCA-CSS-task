@@ -1,0 +1,10 @@
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+}
+.child{
+    height: 50px;
+    width: calc(33.33% - 32px);
+    margin: 4px;
+    background-color: #3498db;
+}

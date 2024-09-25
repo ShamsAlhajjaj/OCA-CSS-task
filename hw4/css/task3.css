@@ -1,0 +1,21 @@
+div{
+ width: 200px;
+ height: 200px;
+ position: absolute;   
+}
+.div1{
+    background-color: brown;
+    top: calc(100% - 200px);
+}
+.div2{
+    background-color: blue;
+   left: calc(100% - 200px);
+}
+.div3{
+    background-color: black;
+    top: calc(100% - 200px);
+    left: calc(100% - 200px);
+}
+.div4{
+    background-color: green;
+}
